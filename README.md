@@ -2,7 +2,14 @@
 
 This Node.js application demonstrates a feature-rich web application with MongoDB as the database. The app incorporates various technologies and features for building a modern web application.
 
+## Screenshots
+<img width="500" alt="todo1" src="https://github.com/dev-modulo/ToDo-App-Example-with-MongoDB-and-ExpressJS-Framework/assets/168773169/4b5129b3-f6a6-449e-a736-cb34e6e1dbd2">
 
+<img width="500" alt="todo2" src="https://github.com/dev-modulo/ToDo-App-Example-with-MongoDB-and-ExpressJS-Framework/assets/168773169/18efb403-aab7-4211-84d6-4e868407f5d0">
+
+<img width="500" alt="todo3" src="https://github.com/dev-modulo/ToDo-App-Example-with-MongoDB-and-ExpressJS-Framework/assets/168773169/6fda7e01-df2e-4be4-97a5-e18ee5172239">
+
+<img width="500" alt="todo4" src="https://github.com/dev-modulo/ToDo-App-Example-with-MongoDB-and-ExpressJS-Framework/assets/168773169/8cca37f4-c8c4-4089-a753-f568c3c516e3">
 
 
 
